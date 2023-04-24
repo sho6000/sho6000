@@ -17,20 +17,6 @@ Hello there! I'm a pragrammerr with the purpose of learning and mastering progra
 <br />
 <br />
 
-<h2>🌴 Connect with me:</h2>
-
-[![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
-[![website](./imgs/globe-dark.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/youtube-light.svg)](https://www.youtube.com/@codewithfred#gh-light-mode-only)
-[![website](./imgs/youtube-dark.svg)](https://www.youtube.com/@codewithfred#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-light-mode-only)
-[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only)
-
 <h2>⚡ Stats<h2>
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true)
