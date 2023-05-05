@@ -10,7 +10,7 @@
 
 
 ```css
-#monkindey { 
+#sho6000 { 
   position: Hángzhōu; 
   currently: Pursuing BCA
   height: 185cm; 
