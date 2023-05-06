@@ -11,7 +11,7 @@
 
 ```css
 #sho6000 { 
-  position: Hángzhōu; 
+  position: Bengaluru; 
   currently: Pursuing BCA
   height: 185cm; 
   display: man; 
