@@ -12,12 +12,11 @@
 ```css
 #sho6000 { 
   position: Bengaluru; 
-  currently: Pursuing BCA
+  currently: Bca
   height: 185cm; 
   display: man; 
-  relationship: mingle ready
-  background: Python 🐍; 
-  color: brown
+  relationship: single;
+  background: Python; 
 }
 ```
 
