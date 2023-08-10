@@ -11,8 +11,8 @@
 
 ```css
 #sho6000 { 
-  position: Bengaluru; 
-  currently: Bca
+  position:INDIA; 
+  currently: BCA;
   height: 185cm; 
   display: man; 
   relationship: single;
