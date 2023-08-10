@@ -11,7 +11,7 @@
 
 ```css
 #sho6000 { 
-  position:INDIA; 
+  position:India; 
   currently: BCA;
   height: 185cm; 
   display: man; 
@@ -19,4 +19,5 @@
   background: Python; 
 }
 ```
+![Profile View Counter](https://komarev.com/ghpvc/?username=sho6000)
 
