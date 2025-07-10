@@ -11,10 +11,10 @@
 
 ```css
 #sho6000 { 
-  position:India; 
-  currently: BCA;
+  position: India; 
+  currently: MCA @Christ;
   height: 185cm; 
-  display: man; 
+  display: Data Handler; 
   relationship: single;
   background: Python; 
 }
