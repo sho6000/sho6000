@@ -1,21 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-```css
+<pre>
 #sho6000 { 
   position: India; 
-  currently: SE @COSS;
+  currently: SE <a href="https://coss.org.in">@COSS</a>; 
   display: DevOps; 
   background: Azure, Python; 
 }
-```
-![Profile View Counter](https://komarev.com/ghpvc/?username=sho6000)
+</pre>
 
+[![Profile View Counter](https://komarev.com/ghpvc/?username=sho6000)](https://github.com/sho6000)
